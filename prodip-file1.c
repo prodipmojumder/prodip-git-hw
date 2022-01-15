@@ -3,8 +3,9 @@
 
 int main()
 {
-    name();
+    full_name();
 }
-void name(){
- printf("prodip");
+void full_name(){
+    int a = 10;
+ printf("prodip mojumder");
 }
